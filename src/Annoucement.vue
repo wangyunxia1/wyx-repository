@@ -7,7 +7,7 @@
 
 <script>
 	export default{
-		data(){   //函数形式，es6新语法， 等于data():function(){}
+		data(){   //函数形式，es6新语法， 等于data():function(){},这是第二次上传
 			return{
 				msg:'hello world',
 				msg1:'hello '
